@@ -1,0 +1,16 @@
+I 2
+Successful insertion of 2 with node bit test 1
+I 23
+Successful insertion of 23 with node bit test 4
+I 31
+Successful insertion of 31 with node bit test 3
+P
+Dummy, 2 1, 2 1, 23 4, 23 4, 31 3, 31 3
+I 19
+Successful insertion of 19 with node bit test 2
+I 21
+Successful insertion of 21 with node bit test 1
+I 10
+Successful insertion of 10 with node bit test 3
+P
+Dummy, 2 1, 2 1, 10 3, 10 3, 23 4, 19 2, 19 2, 21 1, 21 1, 23 4, 31 3, 31 3

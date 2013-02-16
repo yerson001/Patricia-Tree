@@ -1,0 +1,20 @@
+I 200
+Successful insertion of 200 with node bit test 7
+I 351
+Successful insertion of 351 with node bit test 8
+I 900
+Successful insertion of 900 with node bit test 9
+I 551
+Successful insertion of 551 with node bit test 8
+I 400
+Successful insertion of 400 with node bit test 7
+I 651
+Successful insertion of 651 with node bit test 7
+I 700
+Successful insertion of 700 with node bit test 7
+I 851
+Illegal attempt to insert duplicate value: 851
+I 100
+Successful insertion of 100 with node bit test 6
+I 951
+Successful insertion of 951 with node bit test 8

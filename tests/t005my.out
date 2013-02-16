@@ -1,0 +1,44 @@
+D 5335
+Illegal attempt to delete value not present: 5335
+S 3497
+Value not found: 3497
+P
+Patricia tree is empty
+I 200
+Successful insertion of 200 with node bit test 7
+I 5000
+Successful insertion of 5000 with node bit test 12
+I 9
+Successful insertion of 9 with node bit test 3
+I 4957
+Successful insertion of 4957 with node bit test 7
+I 9
+Illegal attempt to insert duplicate value: 9
+P
+Dummy, 9 3, 9 3, 200 7, 200 7, 5000 12, 4957 7, 4957 7, 5000 12
+D 9
+Successful deletion of 9
+I 1957
+Successful insertion of 1957 with node bit test 10
+I 8923
+Successful insertion of 8923 with node bit test 13
+I 9999
+Successful insertion of 9999 with node bit test 10
+P
+Dummy, 200 7, 200 7, 1957 10, 1957 10, 5000 12, 4957 7, 4957 7, 5000 12, 8923 13, 8923 13, 9999 10, 9999 10
+S 9999
+Value found: 9999
+P
+Dummy, 200 7, 200 7, 1957 10, 1957 10, 5000 12, 4957 7, 4957 7, 5000 12, 8923 13, 8923 13, 9999 10, 9999 10
+D 8923
+Successful deletion of 8923
+P
+Dummy, 200 7, 200 7, 1957 10, 1957 10, 5000 12, 4957 7, 4957 7, 5000 12, 9999 13, 9999 13
+I 212
+Successful insertion of 212 with node bit test 4
+I 170
+Successful insertion of 170 with node bit test 6
+I 4953
+Successful insertion of 4953 with node bit test 2
+P
+Dummy, 200 7, 170 6, 170 6, 200 7, 212 4, 212 4, 1957 10, 1957 10, 5000 12, 4957 7, 4957 7, 4953 2, 4953 2, 5000 12, 9999 13, 9999 13

@@ -1,0 +1,24 @@
+I 900
+Successful insertion of 900 with node bit test 9
+I 551
+Successful insertion of 551 with node bit test 8
+I 851
+Successful insertion of 851 with node bit test 7
+I 951
+Successful insertion of 951 with node bit test 5
+I 651
+Successful insertion of 651 with node bit test 7
+S 651
+Value found: 651
+S 851
+Value found: 851
+S 551
+Value found: 551
+S 551
+Value found: 551
+S 900
+Value found: 900
+S 951
+Value found: 951
+P
+Dummy, 900 9, 551 8, 651 7, 651 7, 551 8, 851 7, 851 7, 900 9, 951 5, 951 5

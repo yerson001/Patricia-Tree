@@ -1,0 +1,114 @@
+P
+Patricia tree is empty
+I 4
+Successful insertion of 4 with node bit test 2
+I 3
+Successful insertion of 3 with node bit test 1
+I 5
+Successful insertion of 5 with node bit test 0
+I 6
+Successful insertion of 6 with node bit test 1
+I 12
+Successful insertion of 12 with node bit test 3
+I 15
+Successful insertion of 15 with node bit test 1
+I 222
+Successful insertion of 222 with node bit test 7
+I 7070
+Successful insertion of 7070 with node bit test 12
+I 123
+Successful insertion of 123 with node bit test 6
+I 543
+Successful insertion of 543 with node bit test 9
+I 4
+Illegal attempt to insert duplicate value: 4
+I 542
+Successful insertion of 542 with node bit test 0
+I 8
+Successful insertion of 8 with node bit test 2
+I 18
+Successful insertion of 18 with node bit test 4
+I 88
+Successful insertion of 88 with node bit test 5
+I 888
+Successful insertion of 888 with node bit test 8
+I 8888
+Successful insertion of 8888 with node bit test 13
+S 18
+Value found: 18
+S 8
+Value found: 8
+S 542
+Value found: 542
+S 4
+Value found: 4
+S 7070
+Value found: 7070
+S 5
+Value found: 5
+S 6
+Value found: 6
+S 888
+Value found: 888
+S 88
+Value found: 88
+D 18
+Successful deletion of 18
+D 8
+Successful deletion of 8
+D 123
+Successful deletion of 123
+D 7070
+Successful deletion of 7070
+D 88
+Successful deletion of 88
+D 3
+Successful deletion of 3
+D 542
+Successful deletion of 542
+D 8888
+Successful deletion of 8888
+D 4
+Successful deletion of 4
+D 543
+Successful deletion of 543
+D 222
+Successful deletion of 222
+D 15
+Successful deletion of 15
+D 12
+Successful deletion of 12
+D 6
+Successful deletion of 6
+D 5
+Successful deletion of 5
+D 888
+Successful deletion of 888
+I 9929
+Successful insertion of 9929 with node bit test 13
+D 9929
+Successful deletion of 9929
+I 1
+Successful insertion of 1 with node bit test 0
+I 999
+Successful insertion of 999 with node bit test 9
+I 2
+Successful insertion of 2 with node bit test 1
+I 998
+Successful insertion of 998 with node bit test 0
+I 3
+Successful insertion of 3 with node bit test 0
+I 997
+Successful insertion of 997 with node bit test 1
+D 3
+Successful deletion of 3
+D 1
+Successful deletion of 1
+D 2
+Successful deletion of 2
+D 998
+Successful deletion of 998
+D 999
+Successful deletion of 999
+D 997
+Successful deletion of 997
